@@ -1,0 +1,13 @@
+{
+    "name": "Kuhlman LAbs Organization Workflow",
+    "description": "Kuhlman Labs Organization CI starter workflow.",
+    "iconName": "octicon smiley",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
