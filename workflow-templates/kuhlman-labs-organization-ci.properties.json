@@ -3,7 +3,7 @@
     "description": "Kuhlman Labs Organization CI starter workflow.",
     "iconName": "octicon smiley",
     "categories": [
-        "continuous-integration",
+        "Continuous integration",
         "Go"
     ],
     "filePatterns": [
