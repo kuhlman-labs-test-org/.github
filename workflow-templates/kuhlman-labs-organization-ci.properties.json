@@ -3,7 +3,8 @@
     "description": "Kuhlman Labs Organization CI starter workflow.",
     "iconName": "octicon smiley",
     "categories": [
-        "ci"
+        "continuous-integration",
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
